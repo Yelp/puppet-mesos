@@ -3,3 +3,7 @@
 *.log
 spec/fixtures/modules/*
 pkg/*
+.bundle
+Gemfile.lock
+Puppetfile.lock
+vendor/
